@@ -1,2 +1,4 @@
 https://www.scitepress.org/Papers/2021/103044/103044.pdf
 https://github.com/google-research/scenic/tree/main/scenic/projects/vid2seq
+https://github.com/scopeInfinity/Video2Description
+https://research.google/blog/visual-captions-using-large-language-models-to-augment-video-conferences-with-dynamic-visuals/
